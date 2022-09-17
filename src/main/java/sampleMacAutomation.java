@@ -23,7 +23,7 @@ public class sampleMacAutomation {
             };
             System.out.println("Zoom is launched");
         } catch (MalformedURLException malformedEx) {
-           throw new RuntimeException("Zoom is not launched.\t" + malformedEx.getMessage());
+           throw new RuntimeException("Zoom is not launched due to url issue.\t" + malformedEx.getMessage());
         } catch (Exception exception) {
             throw new RuntimeException  ("Zoom is not launched.\t" + exception.getMessage());
         }
