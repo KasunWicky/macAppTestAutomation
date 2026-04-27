@@ -1,1 +1,2 @@
-# macAppTestAutomation
+# macAppTestAutomation 
+MacAppTestAutomation is a Java-based automation framework designed for functional testing of macOS desktop applications. Leveraging Appium 2.0 and the Appium Mac2Driver, this project demonstrates how to integrate the XCTest framework with Selenium-based APIs to automate native Mac interfaces. It serves as a practical implementation of the environment setup and configuration details provided in the [Automating MacOS applications](https://kasun-wickramarathna.medium.com/automating-macos-applications-part-1-a2c18db089c6) article.
